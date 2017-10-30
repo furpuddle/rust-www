@@ -311,7 +311,7 @@
   name: Sentry
   url: https://sentry.io/
   logo: sentry-horizontal-black.svg
-  how: "<a href='https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html'>JavaScript, Java and iOS event proessing and the command-line client for the Sentry API.</a>"
+  how: "<a href='https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html'>JavaScript, Java and iOS event processing and the command-line client for the Sentry API.</a>"
 -
   name: slowtec
   url: http://www.slowtec.de/
@@ -524,3 +524,13 @@
   url: https://www.nomalab.com
   logo: nomalab.png
   how: "To analyse video, format and pixels."
+-
+  name: CancerIQ
+  url: http://www.canceriq.com/
+  logo: canceriq.png
+  how: "CancerIQ provides the tools for genetic counselors, imaging centers, and other practitioners to run a cancer risk program; <a href='http://engineering.canceriq.com/posts/rust/'>Rust powers several of our risk models</a>."
+-
+  name: IamBot
+  url: http://iambot.ai
+  logo: iambot.png
+  how: " Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems."
