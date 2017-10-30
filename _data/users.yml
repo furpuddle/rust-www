@@ -524,3 +524,8 @@
   url: https://www.nomalab.com
   logo: nomalab.png
   how: "To analyse video, format and pixels."
+
+  name: IamBot
+  url: http://iambot.ai
+  logo: iambot.png
+  how: "Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems."
